@@ -14,4 +14,10 @@
 ## [Project 4: Transfer Learning using MobileNet](https://github.com/aman247av/ML-Projects/tree/main/MobileNet)
 - Image CLassification of Flowers
 - used concept of Transfer Learning
-- can attain acurracy of ~99%
+- can attain accuracy of ~99%
+
+## [Project 5: Image Classification using CNNs](https://github.com/aman247av/ML-Projects/tree/main/MobileNet)
+- worked on fashion_mnist dataset
+- implemented CNNs
+- can attain accuracy of ~92.8%
+- also tried to implement on CIFAR-10 dataset
