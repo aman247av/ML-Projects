@@ -3,6 +3,8 @@
 ## [Project 0: Face Recognition and Classification](https://github.com/aman247av/ML-Projects/blob/main/Face%20Recognition%20and%20Classification%20Project.ipynb)
 
 ## [Project 1: Covid-19](https://github.com/aman247av/ML-Projects/tree/main/COVID-19)
+- Data Visualization
+- Prediction of Confirmed cases of various countries (just basic implementation)
 
 ## [Project 2: Handwritten digit recognition](https://github.com/aman247av/ML-Projects/blob/main/Handwritten%20digit%20recognition.ipynb)
 -  trained MNIST dataset on Neural Network with one hidden layer of 128 neurons
@@ -27,3 +29,7 @@
 ## [Project 6: Face Verification (Siamese network)](https://github.com/aman247av/ML-Projects/blob/main/Image%20Classification.ipynb)
 - can be deployed as application for fae verification
 - used Siamese network
+
+## [Project 7: Sentiment Classification)](https://github.com/aman247av/ML-Projects/blob/main/Image%20Classification.ipynb)
+- used imdb reviews dataset
+- implemented RNNs from scratch (vocabulary intialization, embedding, RNN architecture, training & updating parameters, Prediction)
