@@ -1,6 +1,8 @@
 # ML-Projects
 
-## [Project 1: Face Recognition and Classification](https://github.com/aman247av/ML-Projects/blob/main/Face%20Recognition%20and%20Classification%20Project.ipynb)
+## [Project 0: Face Recognition and Classification](https://github.com/aman247av/ML-Projects/blob/main/Face%20Recognition%20and%20Classification%20Project.ipynb)
+
+## [Project 1: Covid-19](https://github.com/aman247av/ML-Projects/tree/main/COVID-19)
 
 ## [Project 2: Handwritten digit recognition](https://github.com/aman247av/ML-Projects/blob/main/Handwritten%20digit%20recognition.ipynb)
 -  trained MNIST dataset on Neural Network with one hidden layer of 128 neurons
@@ -16,8 +18,12 @@
 - used concept of Transfer Learning
 - can attain accuracy of ~99%
 
-## [Project 5: Image Classification using CNNs](https://github.com/aman247av/ML-Projects/tree/main/MobileNet)
+## [Project 5: Image Classification using CNNs](https://github.com/aman247av/ML-Projects/blob/main/Image%20Classification.ipynb)
 - worked on fashion_mnist dataset
 - implemented CNNs
 - can attain accuracy of ~92.8%
 - also tried to implement on CIFAR-10 dataset
+
+## [Project 6: Face Verification (Siamese network)](https://github.com/aman247av/ML-Projects/blob/main/Image%20Classification.ipynb)
+- can be deployed as application for fae verification
+- used Siamese network
