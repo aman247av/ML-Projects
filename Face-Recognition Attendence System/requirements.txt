@@ -1,0 +1,9 @@
+matplotlib
+cv2
+uuid
+numpy
+tensorflow
+cvzone
+face_recognition
+pickle
+firebase_admin
